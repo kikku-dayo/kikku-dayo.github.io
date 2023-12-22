@@ -1,0 +1,12 @@
+<svg width="92" height="64" viewBox="0 0 92 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.5" y="0.5" width="91" height="63" rx="4.5" stroke="#9747FF" stroke-dasharray="10 5"/>
+<path d="M22 27L32 27" stroke="white" stroke-width="2"/>
+<path d="M32 27L42 27" stroke="white" stroke-width="2"/>
+<path d="M22 32L42 32" stroke="white" stroke-width="2"/>
+<path d="M22 37H32" stroke="white" stroke-width="2"/>
+<path d="M32 37H42" stroke="white" stroke-width="2"/>
+<path d="M53 24.9945L60 32" stroke="white" stroke-width="1.5"/>
+<path d="M60 32L67.0055 24.9945" stroke="white" stroke-width="1.5"/>
+<path d="M53 39L60 32" stroke="white" stroke-width="1.5"/>
+<path d="M60 32L67.0055 39" stroke="white" stroke-width="1.5"/>
+</svg>
